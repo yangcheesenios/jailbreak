@@ -87,4 +87,4 @@ How to compile: https://mirrors.sipsik.net/domonkos.tomcsanyi.net/index.html%3Fp
 - PanguTeam
 - Ian Beer
 - Jonathan Levin (For the jailbreak toolkit)
-- Sem Voigtländer (just a techie)
+- Yangcheesen
